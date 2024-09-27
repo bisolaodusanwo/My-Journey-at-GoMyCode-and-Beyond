@@ -23,10 +23,7 @@ Throughout the bootcamp, I gained hands-on experience with the core technologies
 - Cloud Services and Deployment (AWS, Cloudinary):  
   I also ventured into cloud services, where I learned to deploy applications using AWS S3 for secure file storage and handling image uploads. Cloudinary played a key role in media management in some of my projects, where I was able to optimize and serve images efficiently.
 
-- Full-Stack Development Tool:  
-  I became comfortable with development tools like Docker for containerization and Postman for API testing. Though not yet an expert, I’ve started exploring CI/CD pipelines to automate the deployment process, making continuous integration and continuous delivery seamless.
-
-Soft Skills Gained
+ Soft Skills Gained
 While technical skills are essential, the bootcamp also helped me develop several soft skills that are crucial for my career:
 
 - Teamwork and Collaboration:  
